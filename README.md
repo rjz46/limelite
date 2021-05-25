@@ -1,5 +1,3 @@
-# LIME-Lite
-
 # LIME-Lite: Heuristic Sampling of Representative Local Points to Reduce Runtime in LIME
 
 LIME-Lite: Heuristic Sampling of Representative Local Points to 
